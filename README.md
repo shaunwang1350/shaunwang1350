@@ -1,6 +1,6 @@
 ### Hi there 👋 , I’m Shaun
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaunwang1350.github.io/portfolio/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaunwang1350.github.io/portfolio/)
 
 ## I’m a Student, Developer, Data Scientist, Art Historian, and Curator, [portfolio]
 
