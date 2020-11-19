@@ -2,17 +2,18 @@
 
 ## I’m a Student, Developer, Data Scientist, Art Historian, and Curator [website]
 
-- 🌱 I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
-- 🔭 I’m currently working on some independent coding projects too, ask me about it if you’re curious!
-- 👯 I’m always down to collaborate on new ideas with other creators.
-- 🤔 2020 Goals: Learn Data Science, Get into a MS Program, and Secure an internship...
-- 💬 Ask me about the intersection between data and culture.
-- ⚡ Fun fact: I love to paint, play video games, and read philosophy (snob)… 
+- 🌱  I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
+- 🔭  I’m currently working on some independent coding projects too, ask me about it if you’re curious!
+- 👯  I’m always down to collaborate on new ideas with other creators.
+- 🤔  2020 Goals: Learn Data Science, Get into a MS Program, and Secure an internship...
+- 💬  Ask me about the intersection between data and culture.
+- ⚡  Fun fact: I love to paint, play video games, and read philosophy (snob)… 
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ### Languages and Tools:
 
@@ -33,16 +34,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-### Youtube Demos
+### 📺  Youtube Demos
 
-### Publications
+### 📕 Publications
 
-[snapshot]
-[motive]
-
-### Shaun Wang’s Github Stats:
+[snapshot](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
+[motive](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
 
 [linkedin]: https://www.linkedin.com/in/wang-shaun/
 [website]: https://shaunwang1350.github.io/portfolio/
-[snapshot]: https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums
-[motive]: https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201
