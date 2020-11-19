@@ -1,10 +1,6 @@
 ### Hi there 👋 , I’m Shaun
 
-<!--
-**shaunwang1350/shaunwang1350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I’m a Student, Developer, Data Scientist, Art Historian, and Curator [website]
-
 
 - 🌱 I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
 - 🔭 I’m currently working on some independent coding projects too, ask me about it if you’re curious!
