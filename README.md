@@ -9,6 +9,10 @@
 - 💬  Ask me about the intersection between data and culture.
 - ⚡  Fun fact: I love to paint, play video games, and read philosophy (snob)… 
 
+### 🎧   Spotify Playing 
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -29,10 +33,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-### 📺  Project Demos
+### 📺   Project Demos
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
 
-### 📕  Publications
+### 📕   Publications
 - [Book: "Snapshot: Investigative Interviews on Chinese Contemporary Private Museums"](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
 - [Book: "Motive: 23 Art Individuals"](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
 
