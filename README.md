@@ -37,8 +37,8 @@
 ### 📺  Youtube Demos
 
 ### 📕  Publications
-- [snapshot](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
-- [motive](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
+- [Book: "Snapshot: Investigative Interviews on Chinese Contemporary Private Museums"](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
+- [Book: "Motive: 23 Art Individuals"](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
 
 [linkedin]: https://www.linkedin.com/in/wang-shaun/
 [website]: https://shaunwang1350.github.io/portfolio/
