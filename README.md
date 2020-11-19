@@ -4,8 +4,8 @@
 
 ## I’m a Student, Developer, Data Scientist, Art Historian, and Curator, [portfolio]
 
-- 🌱  I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
-- 🔭  I’m currently working on some independent coding projects too, ask me about it if you’re curious!
+- 🌱  I’m currently developing my data science skillsets and learning more about critical methods on culture in my masters program.
+- 🔭  I’m currently working on some independent coding projects too, ask me about them if you’re curious!
 - 👯  I’m always down to collaborate on new ideas with other creators.
 - 🤔  2020 Goals: Learn Data Science, Get into a MS Program, and Secure an internship...
 - 💬  Ask me about the intersection between data and culture.
