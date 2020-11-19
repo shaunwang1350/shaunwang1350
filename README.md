@@ -1,6 +1,6 @@
 ### Hi there 👋 , I’m Shaun
 
-## I’m a Student, Developer, Data Scientist, Art Historian, and Curator [website]
+## I’m a Student, Developer, Data Scientist, Art Historian, and Curator, [portfolio]
 
 - 🌱  I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
 - 🔭  I’m currently working on some independent coding projects too, ask me about it if you’re curious!
@@ -35,10 +35,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 ### 📺  Youtube Demos
+- [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
 
 ### 📕  Publications
 - [Book: "Snapshot: Investigative Interviews on Chinese Contemporary Private Museums"](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
 - [Book: "Motive: 23 Art Individuals"](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
 
 [linkedin]: https://www.linkedin.com/in/wang-shaun/
-[website]: https://shaunwang1350.github.io/portfolio/
+[portfolio]: https://shaunwang1350.github.io/portfolio/
