@@ -1,5 +1,7 @@
 ### Hi there 👋 , I’m Shaun
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaunwang1350.github.io/portfolio/)
+
 ## I’m a Student, Developer, Data Scientist, Art Historian, and Curator, [portfolio]
 
 - 🌱  I’m currently learning my data science skillsets and learning more about the critical methods on culture in my masters program.
@@ -8,10 +10,6 @@
 - 🤔  2020 Goals: Learn Data Science, Get into a MS Program, and Secure an internship...
 - 💬  Ask me about the intersection between data and culture.
 - ⚡  Fun fact: I love to paint, play video games, and read philosophy (snob)… 
-
-### 🎧   Spotify Playing 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
