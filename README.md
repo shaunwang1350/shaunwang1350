@@ -35,6 +35,8 @@
 
 ### 📺   Project Demos
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
+- [Quiz App](https://shaunwang1350.github.io/js-Quiz-App/)
+- [Countdown Timer](https://shaunwang1350.github.io/js-CountDown-Timer/)
 
 ### 📕   Publications
 - [Book: "Snapshot: Investigative Interviews on Chinese Contemporary Private Museums"](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
