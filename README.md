@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaunwang1350.github.io/portfolio/)
 
-## I’m a Student, Developer, Data Scientist, Art Historian, and Curator, [portfolio]
+## I’m a Student, Developer, Data Analyst, Art Historian, [portfolio]
 
 - 🌱  I’m currently developing my data science skillsets and learning more about critical methods on culture in my masters program.
 - 🔭  I’m currently working on some independent coding projects too, ask me about them if you’re curious!
