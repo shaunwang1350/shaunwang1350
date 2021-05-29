@@ -4,10 +4,10 @@
 
 ## I’m a Student, Developer, Data Analyst, Art Historian, [portfolio]
 
-- 🌱  I’m currently developing my data science skillsets and learning more about critical methods on culture in my masters program.
+- 🌱  I’m currently developing my data science skillsets, Front-End Developing and learning more about critical methods on culture in my masters program.
 - 🔭  I’m currently working on some independent coding projects too, ask me about them if you’re curious!
 - 👯  I’m always down to collaborate on new ideas with other creators.
-- 🤔  2020 Goals: Learn Data Science, Get into a MS Program, and Secure an internship...
+- 🤔  2021 Goals: Learn Front-End Development, Get into a MS Program, and Secure an internship...
 - 💬  Ask me about the intersection between data and culture.
 - ⚡  Fun fact: I love to paint, play video games, and read philosophy (snob)… 
 
