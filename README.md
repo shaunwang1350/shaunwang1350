@@ -34,7 +34,8 @@
 
 ### 📺   Project Demos
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
-- [Quiz App](https://shaunwang1350.github.io/js-Quiz-App/)
+- [Movie App](https://shaunwang1350.github.io/js-Movies-App/)
+- [Quiz Module](https://shaunwang1350.github.io/js-Quiz-App/)
 - [Countdown Timer](https://shaunwang1350.github.io/js-CountDown-Timer/)
 
 ### 📕   Publications
