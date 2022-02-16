@@ -28,13 +28,13 @@ Interested in intersecting Software Development, Art, and Data Analytics.
 <br /><br />
 
 # Project Demos
-<a href='https://youtu.be/g5q-EGc95Cc'><img align="left" width="300" src="./src/images/github_img_deepmbti.png"/></a>
-<a href='https://shaunwang1350.github.io/js-Movies-App/'><img align="left" width="300" src="./src/images/github_img_holo.png"/></a>
+<a href='https://youtu.be/g5q-EGc95Cc'><img align="left" width="250" src="./src/images/github_img_deepmbti.png"/></a>
+<a href='https://shaunwang1350.github.io/js-Movies-App/'><img align="left" width="250" src="./src/images/github_img_holo.png"/></a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Publications
-<a href='https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums'><img align="left" width="300" src="./src/images/github_img_snapshot.png"/></a>
-<a href='https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201'><img align="left" width="300" src="./src/images/github_img_motive.png"/></a>
+<a href='https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums'><img align="left" width="250" src="./src/images/github_img_snapshot.png"/></a>
+<a href='https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201'><img align="left" width="250" src="./src/images/github_img_motive.png"/></a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Connect with me:
