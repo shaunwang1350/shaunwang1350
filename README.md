@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaun-wang.com/)
 
-## I’m a Student, Developer, Data Analyst, Art Historian, [portfolio]
+## I’m a Student, Developer, Data Analyst, Art Historian, interested in intersecting Software Development, Art, and Data Analytics.
 
-- 🌱  I’m currently developing my data science skillsets, Front-End Developing and learning more about critical methods on culture in my masters program.
+- 🌱  I’m currently developing my full-stack skillsets.
 - 🔭  I’m currently working on some independent coding projects too, ask me about them if you’re curious!
 - 👯  I’m always down to collaborate on new ideas with other creators.
-- 🤔  2021 Goals: Learn Front-End Development, Get into a MS Program, and Secure an internship...
+- 🤔  2022 Goals: Learn Front-End Development, Get into a MS Program, and Secure an internship...
 - 💬  Ask me about the intersection between data and culture.
 - ⚡  Fun fact: I love to paint, play video games, and read philosophy (snob)… 
 
@@ -20,17 +20,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-
-<br />
 
 ### 📺   Project Demos
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
