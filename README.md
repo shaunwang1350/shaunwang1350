@@ -1,6 +1,6 @@
 ### Hi there 👋 , I’m Shaun
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaunwang1350.github.io/portfolio/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shaun-wang.com/)
 
 ## I’m a Student, Developer, Data Analyst, Art Historian, [portfolio]
 
@@ -36,12 +36,10 @@
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
 - [Real-time chat app (in-progress)](https://github.com/shaunwang1350/js-react-chat-app)
 - [Movie App](https://shaunwang1350.github.io/js-Movies-App/)
-- [Quiz Module](https://shaunwang1350.github.io/js-Quiz-App/)
-- [Countdown Timer](https://shaunwang1350.github.io/js-CountDown-Timer/)
 
 ### 📕   Publications
 - [Book: "Snapshot: Investigative Interviews on Chinese Contemporary Private Museums"](https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums)
 - [Book: "Motive: 23 Art Individuals"](https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201)
 
 [linkedin]: https://www.linkedin.com/in/wang-shaun/
-[portfolio]: https://shaunwang1350.github.io/portfolio/
+[portfolio]: https://shaun-wang.com/
