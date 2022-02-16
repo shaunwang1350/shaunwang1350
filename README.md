@@ -30,12 +30,12 @@ Interested in intersecting Software Development, Art, and Data Analytics.
 # Project Demos
 <a href='https://youtu.be/g5q-EGc95Cc'><img align="left" width="300" src="./src/images/github_img_deepmbti.png"/></a>
 <a href='https://shaunwang1350.github.io/js-Movies-App/'><img align="left" width="300" src="./src/images/github_img_holo.png"/></a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Publications
 <a href='https://globalcenters.columbia.edu/events/snapshot-discussion-chinese-contemporary-private-art-museums'><img align="left" width="300" src="./src/images/github_img_snapshot.png"/></a>
 <a href='https://news.artnet.com/market/ai-weiwei-headlines-new-book-of-interviews-72201'><img align="left" width="300" src="./src/images/github_img_motive.png"/></a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Connect with me:
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white" />][portfolio]
