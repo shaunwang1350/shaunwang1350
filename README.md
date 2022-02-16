@@ -30,7 +30,7 @@ Interested in intersecting Software Development, Art, and Data Analytics.
 
 # Project Demos
 - [DeepMBTI Demo](https://youtu.be/g5q-EGc95Cc)
-- [Real-time chat app (in-progress)](https://github.com/shaunwang1350/js-react-chat-app)
+- [Real-time chat app](https://github.com/shaunwang1350/js-react-chat-app)
 - [Movie App](https://shaunwang1350.github.io/js-Movies-App/)
 
 # Publications
